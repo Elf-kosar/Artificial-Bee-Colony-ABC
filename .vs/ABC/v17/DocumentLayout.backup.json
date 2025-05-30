@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elf\\source\\repos\\ABC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6AA3A9-F866-4A19-A976-1749292D6910}|ABC\\ABC.csproj|C:\\Users\\elf\\source\\repos\\ABC\\abc\\koloni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6AA3A9-F866-4A19-A976-1749292D6910}|ABC\\ABC.csproj|solutionrelative:abc\\koloni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6AA3A9-F866-4A19-A976-1749292D6910}|ABC\\ABC.csproj|C:\\Users\\elf\\source\\repos\\ABC\\abc\\besinler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6AA3A9-F866-4A19-A976-1749292D6910}|ABC\\ABC.csproj|solutionrelative:abc\\besinler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6AA3A9-F866-4A19-A976-1749292D6910}|ABC\\ABC.csproj|c:\\users\\elf\\source\\repos\\abc\\abc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6AA3A9-F866-4A19-A976-1749292D6910}|ABC\\ABC.csproj|solutionrelative:abc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6AA3A9-F866-4A19-A976-1749292D6910}|ABC\\ABC.csproj|C:\\Users\\elf\\source\\repos\\ABC\\abc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF6AA3A9-F866-4A19-A976-1749292D6910}|ABC\\ABC.csproj|solutionrelative:abc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6AA3A9-F866-4A19-A976-1749292D6910}|ABC\\ABC.csproj|C:\\Users\\elf\\source\\repos\\ABC\\abc\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6AA3A9-F866-4A19-A976-1749292D6910}|ABC\\ABC.csproj|solutionrelative:abc\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6AA3A9-F866-4A19-A976-1749292D6910}|ABC\\ABC.csproj|C:\\Users\\elf\\source\\repos\\ABC\\abc\\besin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6AA3A9-F866-4A19-A976-1749292D6910}|ABC\\ABC.csproj|solutionrelative:abc\\besin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6AA3A9-F866-4A19-A976-1749292D6910}|ABC\\ABC.csproj|C:\\Users\\elf\\source\\repos\\ABC\\abc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6AA3A9-F866-4A19-A976-1749292D6910}|ABC\\ABC.csproj|solutionrelative:abc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\elf\\source\\repos\\ABC\\ABC\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ABC\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\elf\\source\\repos\\ABC\\ABC\\Form1.Designer.cs",
+              "RelativeToolTip": "ABC\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T18:50:45.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elf\\source\\repos\\ABC\\ABC\\Program.cs",
+              "RelativeDocumentMoniker": "ABC\\Program.cs",
+              "ToolTip": "C:\\Users\\elf\\source\\repos\\ABC\\ABC\\Program.cs",
+              "RelativeToolTip": "ABC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T17:05:51.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\elf\\source\\repos\\ABC\\ABC\\Form1.cs",
+              "RelativeDocumentMoniker": "ABC\\Form1.cs",
+              "ToolTip": "C:\\Users\\elf\\source\\repos\\ABC\\ABC\\Form1.cs",
+              "RelativeToolTip": "ABC\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwCoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:47:11.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Besin.cs",
+              "DocumentMoniker": "C:\\Users\\elf\\source\\repos\\ABC\\ABC\\Besin.cs",
+              "RelativeDocumentMoniker": "ABC\\Besin.cs",
+              "ToolTip": "C:\\Users\\elf\\source\\repos\\ABC\\ABC\\Besin.cs",
+              "RelativeToolTip": "ABC\\Besin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:49:45.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Besinler.cs",
+              "DocumentMoniker": "C:\\Users\\elf\\source\\repos\\ABC\\ABC\\Besinler.cs",
+              "RelativeDocumentMoniker": "ABC\\Besinler.cs",
+              "ToolTip": "C:\\Users\\elf\\source\\repos\\ABC\\ABC\\Besinler.cs*",
+              "RelativeToolTip": "ABC\\Besinler.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:49:34.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Koloni.cs",
+              "DocumentMoniker": "C:\\Users\\elf\\source\\repos\\ABC\\ABC\\Koloni.cs",
+              "RelativeDocumentMoniker": "ABC\\Koloni.cs",
+              "ToolTip": "C:\\Users\\elf\\source\\repos\\ABC\\ABC\\Koloni.cs*",
+              "RelativeToolTip": "ABC\\Koloni.cs*",
+              "ViewState": "AgIAANYAAAAAAAAAAAAkwOEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:48:14.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\elf\\source\\repos\\ABC\\ABC\\Form1.cs",
+              "RelativeDocumentMoniker": "ABC\\Form1.cs",
+              "ToolTip": "C:\\Users\\elf\\source\\repos\\ABC\\ABC\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ABC\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:42:21.032Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

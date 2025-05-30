@@ -1,0 +1,10 @@
+C:\Users\elf\source\repos\ABC\ABC\obj\Debug\ABC.csproj.AssemblyReference.cache
+C:\Users\elf\source\repos\ABC\ABC\obj\Debug\ABC.Form1.resources
+C:\Users\elf\source\repos\ABC\ABC\obj\Debug\ABC.Properties.Resources.resources
+C:\Users\elf\source\repos\ABC\ABC\obj\Debug\ABC.csproj.GenerateResource.cache
+C:\Users\elf\source\repos\ABC\ABC\obj\Debug\ABC.csproj.CoreCompileInputs.cache
+C:\Users\elf\source\repos\ABC\ABC\bin\Debug\ABC.exe.config
+C:\Users\elf\source\repos\ABC\ABC\bin\Debug\ABC.exe
+C:\Users\elf\source\repos\ABC\ABC\bin\Debug\ABC.pdb
+C:\Users\elf\source\repos\ABC\ABC\obj\Debug\ABC.exe
+C:\Users\elf\source\repos\ABC\ABC\obj\Debug\ABC.pdb
